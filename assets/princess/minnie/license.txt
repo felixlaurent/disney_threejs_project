@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minnie Mouse (Clubhouse version)
+* source:	https://sketchfab.com/3d-models/minnie-mouse-clubhouse-version-c36911f936904fb6a8bdbb0006039dd4
+* author:	jovannichan2012 (https://sketchfab.com/jovannichan2012)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minnie Mouse (Clubhouse version)" (https://sketchfab.com/3d-models/minnie-mouse-clubhouse-version-c36911f936904fb6a8bdbb0006039dd4) by jovannichan2012 (https://sketchfab.com/jovannichan2012) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

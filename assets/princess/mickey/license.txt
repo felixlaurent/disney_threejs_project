@@ -1,0 +1,11 @@
+Model Information:
+* title:	mickey mouse
+* source:	https://sketchfab.com/3d-models/mickey-mouse-b4639fe9fcee4a7e841048f645fcbc7a
+* author:	restored mario 345 (https://sketchfab.com/nelsonjfrancor24)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "mickey mouse" (https://sketchfab.com/3d-models/mickey-mouse-b4639fe9fcee4a7e841048f645fcbc7a) by restored mario 345 (https://sketchfab.com/nelsonjfrancor24) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

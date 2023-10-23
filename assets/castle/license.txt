@@ -1,0 +1,11 @@
+Model Information:
+* title:	Disney Cinderella Castle (Joseph St.Arnault)
+* source:	https://sketchfab.com/3d-models/disney-cinderella-castle-joseph-starnault-24a4c7a325bc43b8ba3ce8a7e821dfea
+* author:	triosstudents (https://sketchfab.com/triosstudents)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Disney Cinderella Castle (Joseph St.Arnault)" (https://sketchfab.com/3d-models/disney-cinderella-castle-joseph-starnault-24a4c7a325bc43b8ba3ce8a7e821dfea) by triosstudents (https://sketchfab.com/triosstudents) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
